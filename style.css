@@ -1,0 +1,27 @@
+nav{
+    width: 1000px;
+    background-color: white;
+    position: absolute;
+    left: 25%;
+    display: flex;
+    align-items: center;
+    
+}
+
+button{
+    
+    position: relative;
+    left: 105%;
+    
+    font-weight: bold;
+    background-color: white;
+    border: none;
+}
+
+.titulo{
+    color: burlywood;
+    margin-left: 5%;
+}
+html{
+    background-color: gray;;
+}
